@@ -4,3 +4,5 @@
 
 Open the Criminality_Report_Import_Pipeline.ipynb notebook and execute it. 
 That will use the csv files in the "dataset_input" folder to produce the final output in the "dataset_output" folder
+
+Then execute the Criinality_Report_Analysis.ipynb notebook to reproduce the analysis steps
